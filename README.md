@@ -6,3 +6,19 @@ An experimental implementation of the [WebSub](https://www.w3.org/TR/websub/) sp
 ```
 npm install
 ```
+# Run locally
+
+Running the Hub:
+```
+node hub.js
+```
+
+Running the Publisher:
+```
+node publisher.js
+```
+
+Running the subscriber:
+```
+node subscriber.js <resource URL>
+```
