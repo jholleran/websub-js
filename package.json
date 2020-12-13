@@ -1,0 +1,17 @@
+{
+  "name": "websub",
+  "version": "1.0.0",
+  "description": "A simple WebSub implementation",
+  "main": "hub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "parse-link-header": "^1.0.1",
+    "request": "^2.88.2"
+  }
+}
